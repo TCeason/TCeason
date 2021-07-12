@@ -1,7 +1,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=TCeason.readme)
 
 <h1 align="center">Hi 👋, I'm TCeason</h1>
-<h3 align="center">A back-end development engineer from China</h3>
+<h3 align="center">A Database Development Engineer from China</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TCeason" alt="TCeason" /></a> </p>
 
